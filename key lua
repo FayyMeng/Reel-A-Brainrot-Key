@@ -445,4 +445,5 @@ local function createHorizontalKeyGUI()
     end)
 end
 
+-- PANGGIL FUNGSI UNTUK MENJALANKAN GUI
 createHorizontalKeyGUI()
