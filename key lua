@@ -14,7 +14,7 @@ local function createDualKeySystemGUI()
 
     local CONFIG = {
         LinkvertiseURL = "https://link-center.net/3394206/jyM7VCEcU0TM",
-        LootLabsURL = "https://lootdest.org/s?kWrIMPeb&data=yFZi/rLXdaKo2F5uwqz8ha7ZlUUW0%2BzUfck36w0jlUM%3D",
+        LootLabsURL = "https://loot-link.com/s?cj3JPh3T&data=7hDViHN3IUApLO81kcTWQgkJHVcZ7YgZXuyK08imYLUC6dV9EaCGxIdt2HuDjgtF",
         MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/Reel-a-Brainrot/refs/heads/main/ReelABrainrot%20lua",
         DiscordURL = "https://discord.gg/Dz2BafGg7",
     }
