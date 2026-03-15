@@ -42,7 +42,7 @@ end
 
 local function createSingleKeySystemGUI()
     local CONFIG = {
-        LootLabsURL = "https://lootdest.org/s?LMyb48wS&data=yFZi/rLXdaKo2F5uwqz8hS/VqAYOTY5/jrarG8AWNFE%3D",
+        LootLabsURL = "https://loot-link.com/s?PjFzpiuu&data=7hDViHN3IUApLO81kcTWQvsiOu8MpWS2E1PgPDNMF2Lk9TSjosa%2BUPqT2U3UYmRc",
         MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/Reel-a-Brainrot/refs/heads/main/ReelABrainrot%20lua",
         DiscordURL = "https://discord.gg/Dz2BafGg7",
     }
